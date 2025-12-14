@@ -1,2 +1,15 @@
-ai1wm-backups/
+# System files
 .DS_Store
+Thumbs.db
+
+# WordPress specifics
+wp-config.php
+/uploads/
+/cache/
+/upgrade/
+/backups/
+/ai1wm-backups/
+/wflogs/
+*.log
+*.sql
+*.wpress
